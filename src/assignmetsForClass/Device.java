@@ -27,7 +27,7 @@ public class Device {
 		this.condition= condition;
 		listOfApps=  list;
 		isbn= newIsbn;	
-		
+		//this is for the test purpose.
 	}
 	public void printInfo() {
 		String seperator = "--------------------------------------------------";
